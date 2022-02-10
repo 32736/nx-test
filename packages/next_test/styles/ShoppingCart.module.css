@@ -1,0 +1,17 @@
+.table {
+    --border:1px solid #ddd;
+  border: var(--border);
+  margin-top: 2rem;
+}
+
+.table th,
+.table td{
+    text-align: center;
+    border: var(--border);
+    padding: 0.5rem;
+}
+
+
+.button{
+    padding: 0.5rem 1.5rem;
+}

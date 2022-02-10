@@ -1,0 +1,16 @@
+.redirection-methods {
+  display: flex;
+  color: #f30049;
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
+
+.redirect {
+    padding: 0.5rem 1rem;
+}
+
+.redirect:first-child {
+    padding: 0.5rem 1rem;
+  margin-right: 2rem;
+}

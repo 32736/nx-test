@@ -1,0 +1,9 @@
+type Query {
+  products(active: Boolean): [Products]
+}
+
+type Products {
+  name: String
+  price: Int
+  active: Boolean
+}
